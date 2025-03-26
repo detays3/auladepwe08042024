@@ -1,0 +1,43 @@
+body{
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+
+}
+h1{
+    color: red;
+    text-align: center;
+ 
+}
+ 
+p{ color: red;
+   background-color: black;
+   font-size: large;
+  
+}
+div{text-align: center;}
+legend{
+     color: red;
+     font-size: large;}
+ 
+img{
+border: 30px solid;
+font-size: 30px;
+background-color: crimson
+;
+border-color:red;
+border-style: outset;}
+ #iconup{
+ text-decoration: none;
+ color: red;
+background-color: black;
+  font-size: 50px; 
+
+ }
+h2{
+    color: red;
+    text-align: center;
+}
